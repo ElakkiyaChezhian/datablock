@@ -1,5 +1,5 @@
 project_id = "internal-test-prj-ly"
-network = "elak-network"
+google_compute_network = "elak-network"
 google_compute_global_address="apigee-range2"
 region="us-east1"
 google_apigee_environment="ela-environment"
